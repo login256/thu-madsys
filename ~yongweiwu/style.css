@@ -1,0 +1,211 @@
+body 
+{
+        font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+body a
+{
+        color: #336699;
+        text-decoration: none;
+}
+
+body a:hover
+{
+        text-decoration: underline;
+}
+
+#logo
+{
+	width: 170px;
+}
+
+#title
+{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        text-align: center;
+	white-space: nowrap;   
+}
+
+#separator
+{
+	padding-top: 10px; 
+        padding-bottom: 10px; 
+	padding-left: 20px;  
+        background-color: rgb(173,216,230);
+}
+
+#menu 
+{
+        position: absolute;
+	width: 120px;
+	top: 200px;
+	padding: 10px;
+        line-height: 200%;
+        text-align: left;
+}
+
+#menu a
+{
+        color: Blue;
+}
+
+#menu .current
+{
+        color: Red;
+        text-decoration: underline;        
+}
+
+#content
+{
+        position: absolute;
+        #top: 200px;
+        #left: 150px;
+	padding-left: 10px;
+}
+
+#content p
+{
+        padding-left: 30px;
+        text-align: justify; 
+        width: 90%;
+}
+
+#content li 
+{
+	padding: 2px;
+}
+
+
+#content .section {
+	font-size: large;
+	font-weight: bold;
+	color: Black;
+}
+
+.important
+{
+        color: Red;
+        font-weight: bold;
+}
+
+.paper
+{
+        text-decoration: none;
+}
+
+.paper .title
+{
+        #font-weight: bold;
+        width: 90%;
+}
+
+.paper .author
+{
+        width: 90%;
+}
+
+.paper .author a
+{
+        color: Black;
+}
+
+.paper .author a:hover
+{
+        text-decoration: underline;
+}
+
+
+.paper .conference
+{
+        font-style: italic;
+        width: 90%;
+}
+
+.paper .description
+{
+        font-size: medium;
+        #font-style: italic;
+        text-align: justify; 
+        #color: darkblue;
+        padding-top: 5px;
+        padding-left: 20px;
+        width: 90%;
+}
+
+.paper .abstract
+{
+        font-style: italic;
+        text-align: justify; 
+        color: darkblue;
+        width: 90%;
+}
+
+.paper p
+{
+        padding-left: -30px;
+        text-align: justify; 
+        width: 90%;
+}
+
+.paper li
+{
+        margin-bottom: 5px
+}
+
+.project
+{
+}
+
+.project .title
+{
+        font-weight: bold;
+        width: 90%;
+}
+
+.project .description
+{
+        font-style: italic;
+        text-align: justify; 
+        #color: darkblue;
+        width: 90%;
+}
+
+.project .abstract
+{
+        text-align: justify; 
+        color: darkblue;
+        width: 90%;
+}
+
+.fund .title
+{
+        #font-weight: bold;
+        width: 90%;
+}
+
+.fund .description
+{
+        #font-style: italic;
+        text-align: justify; 
+        #color: darkblue;
+        width: 90%;
+}
+
+.item
+{
+        padding-left: 10px;
+        text-align: justify; 
+        width: 90%;
+}
+
+.fund li
+{
+        margin-bottom: 5px
+}
+
+img.email
+{
+        width: 300px;
+        height: 30px;
+}

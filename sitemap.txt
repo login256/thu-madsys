@@ -1,0 +1,6 @@
+http://madsys.cs.tsinghua.edu.cn/index.html
+http://madsys.cs.tsinghua.edu.cn/news.html
+http://madsys.cs.tsinghua.edu.cn/people.html
+http://madsys.cs.tsinghua.edu.cn/projects.html
+http://madsys.cs.tsinghua.edu.cn/publications.html
+http://madsys.cs.tsinghua.edu.cn/sitemap.txt
